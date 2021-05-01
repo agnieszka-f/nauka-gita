@@ -23,3 +23,6 @@ span{
 	font-weight: 600;
 	font-style: italic;
 }
+i:first-of-type{
+	color: #b57b7b;
+}
