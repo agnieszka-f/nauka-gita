@@ -12,6 +12,8 @@ p:first-of-type, p:last-of-type{
 }
 h2 {
 	margin-bottom: 2%;
+	color: #bb5d6d;
+
 }
 p:last-of-type{
 	font-family: 'Alegreya Sans', sans-serif;
